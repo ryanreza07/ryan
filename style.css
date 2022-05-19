@@ -13,10 +13,11 @@ section{
 }
 .half-width{
 	float: left;
+    width: 40%;
 	height: 500px;
-	margin-top: 25px;
-	margin-left: 50px;
-	width: 50%;
+	margin-top:3%;
+	padding-left: 2%;
+
 }
 .half-width h4{
 	font-size: 10px;
