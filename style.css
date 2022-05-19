@@ -47,12 +47,10 @@ a:hover{
 .half-width-1{
 	float: left;
 }
-img{
-	margin-right: 15px;
-	margin-top: 15px;
-	height: 200px;
-	width: 250px;
+.half-width-1 img{
+    width: 100%;
 }
+
 
 
 
