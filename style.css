@@ -21,7 +21,7 @@ section{
 }
 .half-width h4{
 	font-size: 10px;
-	font-family:  Verdana, Geneva, Tahoma, sans-serif;
+	font-family:  verdana, geneva, tahoma, sans-serif;
 	margin-bottom: 10PX;
 	
 }
@@ -37,7 +37,7 @@ section{
 	background-image:  linear-gradient(45deg, lightsalmon, tomato);
 	color: white;
 	border-radius: 5px;
-	padding:5px 15px;
+	padding:2% 5%;
 	font-weight: 700;
 }
 a:hover{
@@ -45,6 +45,7 @@ a:hover{
 	background-color: white;
 }
 .half-width-1{
+	width: 50%;
 	float: left;
 }
 .half-width-1 img{
